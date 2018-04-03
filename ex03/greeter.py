@@ -1,4 +1,3 @@
-
 class Greeter:
 
     def speak(self, name):
